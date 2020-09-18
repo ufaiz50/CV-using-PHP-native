@@ -1,0 +1,49 @@
+{
+  "nama": "Umar Faiz Ubaidillah",
+  "telpon": "(+62)81238838345",
+  "email": "ufaiz50@gmail.com",
+  "alamat": "Kendal",
+  "keahlian": {
+    "bahasa": [
+      "HTML/CSS",
+      "JavaScript",
+      "Java",
+      "PHP",
+      "python(basic)",
+      "kotlin",
+      "dart"
+    ],
+    "framework": [
+      "CodeIgniter",
+      "Laravel",
+      "AngularJS",
+      "React",
+      "Django",
+      "Android Studio",
+      "Flutter"
+    ],
+    "sertifikasi": [
+      {
+        "dicoding": [
+          "Memulai Pemograman Dengan Python",
+          "Memulai Pemograman Dengan Java",
+          "Memulai Pemograman Dengan Kotlin",
+          "Membuat Aplikasi Android Pemula",
+          "Belajar Dasar Pemograman WEB",
+          "Belajar Fundamental Front-End Web Development"
+        ]
+      },
+      {
+        "bwa": "Full-stack WEB Development"
+      }
+    ]
+  },
+  "pengalaman": [
+    "Machine Learning",
+    "Data Warehouse",
+    "Inventories",
+    "RestFull API",
+    "progressive Web App",
+    "E-commerce"
+  ]
+}
